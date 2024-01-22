@@ -1,7 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
 
-
+<!-- <?php
+include('./components/assets/style.css')
+ ?> -->
 
 <?php
 $page_title = "Home";
