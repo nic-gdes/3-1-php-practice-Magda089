@@ -1,21 +1,18 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<!-- <?php
-include('./components/assets/style.css')
- ?> -->
 
 <?php
 $page_title = "Home";
-include ('.components/head.php')
+include ('./components/head.php');
 ?>
 </head>
 
 <body>
  <?php
-include('./components/nav.php')
+include('./components/nav.php');
  ?>
  <h1>Home Page</h1>
  <?php
-include('./components/footer.php')
+include('./components/footer.php');
  ?>
